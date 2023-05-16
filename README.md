@@ -6,3 +6,5 @@ usual path -> "C:\xampp\htdocs"
 
 Use the DB inside the backup folder to import in your phpMyAdmin or create a DB with what ever fields you want,
 remember to modify the code as needed in that case.
+
+[![CodeFactor](https://www.codefactor.io/repository/github/ajinnx/hackathon-entry-backend/badge/main)](https://www.codefactor.io/repository/github/ajinnx/hackathon-entry-backend/overview/main)
